@@ -7,7 +7,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><span>HELP DESK </span>SYSTEM | PT. PERTAMINA GAS DISTRIK BITUNG</a>
+				<a class="navbar-brand" href="#"><span>HELPDESK </span>SAHABAT-BELAJAR</a>
 				<ul class="user-menu">
 					<li class="dropdown pull-right">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg> <?php echo $this->session->userdata('nama');?> <span class="caret"></span></a>
